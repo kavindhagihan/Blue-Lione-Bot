@@ -35,7 +35,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94789432596'] //ur owner number
-global.ownername = "කවියා 💖😘 " //ur owner name
+global.ownername = " kaviya " //ur owner name
 global.ytname = "YT: Nipuna-apps" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -43,13 +43,13 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['714188730']
 global.ownertag = '714188730' //ur tag number
-global.botname = '⚜කවියා😘⚜' //ur bot name
+global.botname = '⚜kaviya⚜' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script link
 global.reactmoji = "💖" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "⚜කවියා පැක්🤪⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "⚜kaviya⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "NIPUNA" //ur sticker watermark author
 
 //Bot theme media
@@ -59,8 +59,8 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['714188730'] //ur premium numbers
-global.ntilinkytvid = []
+global.premium = ['789432596'] //ur premium numbers
+global.ntilinkytvid = [❤️]
 global.ntilinkytch = []
 global.ntilinkig = []
 global.ntilinkfb = []
@@ -72,12 +72,12 @@ global.nticall = []
 global.ntwame = []
 global.nttoxic = []
 global.ntnsfw = []
-global.ntvirtex = []
-global.rkyt = []
-global.wlcm = []
-global.gcrevoke = []
-global.autorep = []
-global.ntilink = []
+global.ntvirtex = [🙄]
+global.rkyt = [👀]
+global.wlcm = [😊]
+global.gcrevoke = [🥺]
+global.autorep = [😉]
+global.ntilink = [🤪]
 
 //omther
 global.sessionName = 'session'
